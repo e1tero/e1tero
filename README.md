@@ -30,11 +30,17 @@ I am a Unity Game Developer  <img src="https://companieslogo.com/img/orig/U-ea48
 
 ## 🎮 Мои Проекты
 
-### 1. **Cyber Taxi Proto ** — CPI 0.7$ USA
+### 1. Cyber Taxi Proto* — CPI 0.7$ USA
 
 
 
-https://github.com/user-attachments/assets/82119676-c263-4c39-9a90-c89dea0718d1
+https://github.com/user-attachments/assets/5712b125-9402-4fd7-8bfa-a619d53e1f42
+
+
+
+https://github.com/user-attachments/assets/2a7f56c3-e9d0-477f-b0b9-79a6f0a16c48
+
+
 
 
 
