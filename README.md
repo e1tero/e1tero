@@ -21,8 +21,21 @@
 </div>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 I am a Unity Game Developer  <img src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1720244494" width="20">.
 
 - I am 24 years old I have 4 years of experience in Unity.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Egor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EgorOMalley)
+
+
+## 🎮 Мои Проекты
+
+### 1. **Cyber Taxi Proto ** — CPI 0.7$ USA
+
+
+
+https://github.com/user-attachments/assets/82119676-c263-4c39-9a90-c89dea0718d1
+
+
+
+
