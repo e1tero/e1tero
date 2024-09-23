@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://trashbox.ru/ifiles/1170525_a3986e_1567441435_gamedeveloper/v-gosdume-hotyat-obsudit-igrovuyu-industriyu-v-rossii-1.gif" width="100"/>
 </div>
 <!--
 **e1tero/e1tero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
