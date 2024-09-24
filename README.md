@@ -83,3 +83,6 @@ https://github.com/user-attachments/assets/4c9fc25e-a8ba-4593-8cbe-f86c34d2d435
 https://github.com/user-attachments/assets/9d44da37-c4f5-4be8-8ffe-1cc9acac202e
 
 ### <a name="worm-rampage"></a>Worm Rampage - CPI 0.6$
+
+https://github.com/user-attachments/assets/63c9a2ed-ef61-44ec-970a-fd22604dee76
+
