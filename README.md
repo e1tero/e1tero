@@ -44,7 +44,8 @@ I am a Unity Game Developer  <img src="https://companieslogo.com/img/orig/U-ea48
 - [Zombies](#zombies)
 - [Duel](#duel)
 - [Save the planet](#save-the-planet)
-______________________________________
+
+  
 [Other Prototypes](#other)
 
 ## 🎮 Мои Проекты
