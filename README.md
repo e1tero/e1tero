@@ -44,6 +44,8 @@ I am a Unity Game Developer  <img src="https://companieslogo.com/img/orig/U-ea48
 - [Zombies](#zombies)
 - [Duel](#duel)
 - [Save the planet](#save-the-planet)
+______________________________________
+[Other Prototypes](#other)
 
 ## 🎮 Мои Проекты
 
@@ -149,5 +151,19 @@ https://github.com/user-attachments/assets/93a55c83-49a1-43a1-92b9-b8954c3cdc59
 
 https://github.com/user-attachments/assets/40db2493-1d78-4a50-8ecc-0922e3c1ea81
 
+
+## <a name="other"></a>Other Prototypes
+
+https://github.com/user-attachments/assets/5ff828b1-aebc-4d5b-8033-9394fe2a61a7
+
+https://github.com/user-attachments/assets/345d58d1-7f9d-4b63-a54d-90877d082cc3
+
+https://github.com/user-attachments/assets/9de222f2-3fdc-4580-8686-d239bb00aa32
+
+https://github.com/user-attachments/assets/38b5bb6c-f6ef-4bf9-9a05-cf8dcca39ac9
+
+https://github.com/user-attachments/assets/6a4b5885-fc53-4de0-8b2d-a3652607b8b7
+
+https://github.com/user-attachments/assets/f69ac618-3d1d-4fac-a29d-790d1a531dea
 
 
