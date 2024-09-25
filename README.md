@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/NTYpSvD/IMG-5153.png" width="200"/>
-
+  
   <div id="badges">
   <a href="https://www.linkedin.com/in/egor-neugodov-3927a61b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -165,5 +165,15 @@ https://github.com/user-attachments/assets/38b5bb6c-f6ef-4bf9-9a05-cf8dcca39ac9
 https://github.com/user-attachments/assets/6a4b5885-fc53-4de0-8b2d-a3652607b8b7
 
 https://github.com/user-attachments/assets/f69ac618-3d1d-4fac-a29d-790d1a531dea
+
+https://github.com/user-attachments/assets/36ada34a-ab69-42c6-88bc-fdbd685267c0
+
+![Escape-By-Car(1)](https://github.com/user-attachments/assets/412dd06c-328a-4808-88b4-4a005598fea4)
+
+![0c6HBAD](https://github.com/user-attachments/assets/fad9fc6a-3d06-4f45-bbec-a88c9b89d4e5)
+
+![Puzzle3D(1)](https://github.com/user-attachments/assets/cc794d51-1134-42bf-93e2-89e529962bba)
+
+
 
 
