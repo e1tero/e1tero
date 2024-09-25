@@ -36,6 +36,14 @@ I am a Unity Game Developer  <img src="https://companieslogo.com/img/orig/U-ea48
 - [File Sorting](#file-sorting)
 - [Car Rampage](#car-rampage)
 - [Worm Rampage](#worm-rampage)
+- [Car Merge](#car-merge)
+- [Tactical Move](#tactical-move)
+- [Airplane IO](#airplane-io)
+- [Cops Simulator](#cops-simulator)
+- [Prison Break](#prison-break)
+- [Zombies](#zombies)
+- [Duel](#duel)
+- [Save the planet](#save-the-planet)
 
 ## 🎮 Мои Проекты
 
@@ -85,4 +93,61 @@ https://github.com/user-attachments/assets/9d44da37-c4f5-4be8-8ffe-1cc9acac202e
 ### <a name="worm-rampage"></a>Worm Rampage - CPI 0.6$
 
 https://github.com/user-attachments/assets/63c9a2ed-ef61-44ec-970a-fd22604dee76
+
+https://github.com/user-attachments/assets/0b692392-a8bf-4617-adc5-1f8b9a49f195
+
+
+### <a name="car-merge"></a>Car Merge
+
+https://github.com/user-attachments/assets/2efbe98a-d82a-4a93-9db6-224bf7e87801
+
+https://github.com/user-attachments/assets/701f08c7-72d4-4036-bff2-5bd856fe1e07
+
+### <a name="tactical-move"></a>Tactical Move - CPI 0.7$
+
+https://github.com/user-attachments/assets/83266ba6-b64c-4a83-9a0b-3dc48c4b633b
+
+https://github.com/user-attachments/assets/85218960-6921-431d-aa09-5b9f5b0bd4e5
+
+https://github.com/user-attachments/assets/03b2c8af-4eed-46f9-9676-1b9717af6c76
+
+### <a name="airplane-io"></a>Airplane IO - CPI 1.1$
+
+https://github.com/user-attachments/assets/08e4851a-02af-41ea-b2d7-6cd54431b807
+
+https://github.com/user-attachments/assets/bb34b1f6-6ff0-43fd-9ebc-ccaaa7abaec4
+
+### <a name="cops-simulator"></a>Cops Simulator - CPI 1.35$
+
+https://github.com/user-attachments/assets/667d8f03-5eb6-4b06-b8c6-1be41fb585b0
+
+### <a name="prison-break"></a>Prison Break - CPI 1$
+
+https://github.com/user-attachments/assets/af81430c-339f-413d-b564-ec1fdea57510
+
+https://github.com/user-attachments/assets/0e1a1f3e-6b76-4551-8c86-0dbb4920c0c6
+
+### <a name="zombies"></a>Zombies - CPI 0.25$
+
+https://github.com/user-attachments/assets/84c845bd-7172-47eb-89f1-36d5d771b0c3
+
+https://github.com/user-attachments/assets/8eb6541a-7f15-4c66-85bc-3eff166056a3
+
+### <a name="zombies"></a>New Zombies - CPI 1$
+
+https://github.com/user-attachments/assets/53e8ccb0-f059-4ded-982c-5df56e2d3d2a
+
+### <a name="duel"></a>Duel - CPI 1.2$
+
+https://github.com/user-attachments/assets/49916abb-eae0-45ba-b4ed-cc20e83a8a88
+
+https://github.com/user-attachments/assets/59dc6774-b5ad-41fa-8c87-c64413f8144e
+
+### <a name="save-the-planet"></a>Save the planet
+
+https://github.com/user-attachments/assets/93a55c83-49a1-43a1-92b9-b8954c3cdc59
+
+https://github.com/user-attachments/assets/40db2493-1d78-4a50-8ecc-0922e3c1ea81
+
+
 
