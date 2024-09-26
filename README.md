@@ -9,11 +9,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
-   </a>
-  <a href="https://hh.ru/resume/92cd19bdff07d933400039ed1f32464f704c36">
-    <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=hh.ru&logoColor=white" alt="hh.ru Badge"/>
-  </a>
-
 <h1>
   Hello, world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
