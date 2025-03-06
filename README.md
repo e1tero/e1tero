@@ -45,12 +45,14 @@ I am a Unity Game Developer  <img src="https://companieslogo.com/img/orig/U-ea48
 
 ## 🎮 Мои Проекты
 
-Из последнего:
-https://play.google.com/store/apps/details?id=com.COGInteractive.HiddenScrew&hl=en_US
-https://play.google.com/store/apps/details?id=com.COGInteractive.SortiePark&hl=en_US
-https://play.google.com/store/apps/details?id=com.COGInteractive.PizzaMarket&hl=en_US
-https://play.google.com/store/apps/details?id=com.COGInteractive.Conveyor&hl=en_US
-https://play.google.com/store/apps/details?id=com.COGInteractive.Marble&hl=en_US
+## 🎮 Последние опубликованные проекты  
+
+- 📱 **[Hidden Screw](https://play.google.com/store/apps/details?id=com.COGInteractive.HiddenScrew&hl=en_US)**
+- 🛻 **[Sortie Park](https://play.google.com/store/apps/details?id=com.COGInteractive.SortiePark&hl=en_US)**
+- 🍕 **[Pizza Market](https://play.google.com/store/apps/details?id=com.COGInteractive.PizzaMarket&hl=en_US)**
+- 🚀 **[Can Factory!](https://play.google.com/store/apps/details?id=com.COGInteractive.Conveyor&hl=en_US)**
+- 🔵 **[Marbles Match](https://play.google.com/store/apps/details?id=com.COGInteractive.Marble&hl=en_US)**
+
 
 ### <a name="cyber-taxi-proto"></a>Cyber Taxi Proto — CPI 0.7$
 https://github.com/user-attachments/assets/5712b125-9402-4fd7-8bfa-a619d53e1f42
