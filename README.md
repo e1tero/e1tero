@@ -45,7 +45,7 @@ I am a Unity Game Developer  <img src="https://companieslogo.com/img/orig/U-ea48
 
 ## 🎮 Мои Проекты
 
-## 🎮 Последние опубликованные проекты  
+# Последние опубликованные проекты  
 
 - 📱 **[Hidden Screw](https://play.google.com/store/apps/details?id=com.COGInteractive.HiddenScrew&hl=en_US)**
 - 🛻 **[Sortie Park](https://play.google.com/store/apps/details?id=com.COGInteractive.SortiePark&hl=en_US)**
